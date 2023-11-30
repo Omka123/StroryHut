@@ -1,1 +1,1 @@
-# StroryHunt
+# StoryHunt
