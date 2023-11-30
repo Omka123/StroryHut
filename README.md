@@ -1,1 +1,1 @@
-# StroryHut
+# StroryHunt
